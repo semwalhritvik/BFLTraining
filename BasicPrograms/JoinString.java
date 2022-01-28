@@ -15,6 +15,8 @@ public class JoinString {
         });
         // a|b|c|d|e , better uses the Java 8 String.join :)
         String join = String.join("|", strings);
+
+        System.out.println(reduce + reduce2+join);
     }
     
 }

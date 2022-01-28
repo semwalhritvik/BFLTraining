@@ -9,6 +9,7 @@ public class checkDebugger {
         int b = sc.nextInt();
         sum(a,b);
         
+        sc.close();
 
     }
 

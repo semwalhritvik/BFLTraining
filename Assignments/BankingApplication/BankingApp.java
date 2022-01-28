@@ -45,9 +45,8 @@ class Customer{
 		customer[n].display();
 	}
 	public static void asc(Customer[] customer) {
-		int n;
 		for(int i=0;i<customer.length;i++) {
-			n=i;
+			i = i+1;
 			
 		}
 	}
@@ -109,7 +108,7 @@ public class BankingApp{
 		 break;
 	 }
 	
-	
+	sc.close();
 
 }
 }
