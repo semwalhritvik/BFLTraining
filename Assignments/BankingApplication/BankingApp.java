@@ -1,5 +1,3 @@
-package BankApplication.BankingApplication;
-
 import java.util.Scanner;
 
 class Customer{
@@ -90,9 +88,7 @@ public class BankingApp{
 	 {
 		 System.out.println("Enter the id you want to update ");
 		 int num=sc.nextInt();
-		 Customer.update(num,customer);
-		 
-		 
+		 Customer.update(num,customer);	 
 		 
 		 break;
 	 }
