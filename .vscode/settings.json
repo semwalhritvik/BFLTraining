@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Assignments\\BankingApplication"
+        "BasicPrograms",
+        "JavaAssignments\\BankingApplication",
+        "JavaAssignments\\StreamAPI"
     ]
 }
